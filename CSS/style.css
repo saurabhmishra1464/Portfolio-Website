@@ -1,0 +1,43 @@
+body {
+    color: 4e;
+    margin: 0;
+
+    text-align: center;
+    font-family: "Merriweather", serif;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+h1 {
+    font-family: "Sacramento", cursive;
+    color: #66bfbf;
+    font-size: 5.625rem;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+h2 {
+    color: #66bfbf;
+    font-family: "Montserrat",sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
